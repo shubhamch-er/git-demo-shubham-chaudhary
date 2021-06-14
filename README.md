@@ -1,6 +1,6 @@
 # Git Demo by `Shubham Chaudhary`
 
-[![Build Status](https://img.shields.io/badge/Version-1.0-orange.svg)](https://github.com/shubhamch-er/git-demo-shubham-chaudhary/releases/tag/RELEASE_v1.0)[![Build Status](https://img.shields.io/badge/-1.1-orange.svg)](https://github.com/shubhamch-er/git-demo-shubham-chaudhary/releases/tag/RELEASE_v1.1) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/shubhamch-er/git-demo-shubham-chaudhary/releases/tag/RELEASE_v1.0)
+[![Build Status](https://img.shields.io/badge/Version-1.0-orange.svg)](https://github.com/shubhamch-er/git-demo-shubham-chaudhary/releases/tag/RELEASE_v1.0)[![Build Status](https://img.shields.io/badge/-1.1-blue.svg)](https://github.com/shubhamch-er/git-demo-shubham-chaudhary/releases/tag/RELEASE_v1.1) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/shubhamch-er/git-demo-shubham-chaudhary/releases/tag/RELEASE_v1.0)
 
 ### Command explored and used
 

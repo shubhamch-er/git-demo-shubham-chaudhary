@@ -1,5 +1,7 @@
 # Git Demo by `Shubham Chaudhary`
 
+[![Build Status](https://img.shields.io/badge/Version-1.0-green.svg)](https://github.com/shubhamch-er/git-demo-shubham-chaudhary/releases/tag/RELEASE_v1.0) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/shubhamch-er/git-demo-shubham-chaudhary/releases/tag/RELEASE_v1.0)
+
 ### Command explored and used
 
 1. `git config --list` > It show the git configrations like Email, Username and other important stuff. If this is used inside the git directory it shows some extra configs like remote.origin.url etc.

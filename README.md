@@ -24,3 +24,4 @@
 1. `git push` > pushes the code to remote
 1. `git tag <release_version>` > creates a new tag locally
 1. `git push origin <release_version>` > pushes the tag to remote.
+1. `git commit -am "Any Meaningful Message"` > adds and commit at the same time. NOTE: Works only if the file is modified and not newly created.
